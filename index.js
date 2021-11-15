@@ -14,3 +14,4 @@ var shopper = {
  console.log(shopper.groceryCart.slice(2,4));
  console.log(shopper.fullName());
 
+ console.log(shopper);
